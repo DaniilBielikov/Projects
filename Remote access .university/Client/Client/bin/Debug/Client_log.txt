@@ -1,0 +1,138 @@
+21:57:08 ::Сonnection to 127.0.0.1 server established!
+17:14:53 ::Сonnection to 127.0.0.1 server established!
+17:15:57 ::Сonnection to 127.0.0.1 server established!
+17:16:50 ::Сonnection to 127.0.0.1 server established!
+17:20:53 ::Сonnection to 127.0.0.1 server established!
+17:22:03 ::Сonnection to 127.0.0.1 server established!
+17:23:49 ::Сonnection to 127.0.0.1 server established!
+18:22:30 ::Сonnection to 192.168.0.109 server established!
+18:26:44 ::Сonnection to 192.168.0.109 server established!
+13:05:55 ::Сonnection to 127.0.0.1 server established!
+13:06:57 ::Сonnection to 127.0.0.1 server established!
+13:52:44 ::Сonnection to 127.0.0.1 server established!
+13:54:25 ::Сonnection to 127.0.0.1 server established!
+13:56:55 ::Сonnection to 127.0.0.1 server established!
+13:59:04 ::Сonnection to 127.0.0.1 server established!
+14:31:18 ::Сonnection to 127.0.0.1 server established!
+14:33:50 ::Сonnection to 127.0.0.1 server established!
+14:43:19 ::Сonnection to 192.168.0.109 server established!
+14:51:54 ::Сonnection to 192.168.0.109 server established!
+15:22:12 ::Сonnection to 192.168.0.109 server established!
+15:26:48 ::Сonnection to 127.0.0.1 server established!
+15:31:02 ::Сonnection to 127.0.0.1 server established!
+15:45:40 ::Сonnection to 127.0.0.1 server established!
+16:33:42 ::Сonnection to 127.0.0.1 server established!
+16:36:08 ::Сonnection to 127.0.0.1 server established!
+16:41:47 ::Сonnection to 127.0.0.1 server established!
+16:43:07 ::Сonnection to 127.0.0.1 server established!
+16:47:43 ::Сonnection to 127.0.0.1 server established!
+16:48:51 ::Сonnection to 127.0.0.1 server established!
+16:49:36 ::Сonnection to 127.0.0.1 server established!
+16:52:04 ::Сonnection to 127.0.0.1 server established!
+16:55:50 ::Сonnection to 127.0.0.1 server established!
+16:57:25 ::Сonnection to 127.0.0.1 server established!
+17:04:15 ::Сonnection to 127.0.0.1 server established!
+17:08:08 ::Сonnection to 127.0.0.1 server established!
+17:10:51 ::Сonnection to 127.0.0.1 server established!
+17:12:28 ::Сonnection to 127.0.0.1 server established!
+17:13:28 ::Сonnection to 127.0.0.1 server established!
+17:39:56 ::Сonnection to 192.168.0.109 server established!
+18:02:13 ::Сonnection to 192.168.0.107 server established!
+18:03:56 ::Сonnection to 192.168.0.109 server established!
+18:13:04 ::Сonnection to 192.168.0.109 server established!
+18:17:28 ::Сonnection to 192.168.0.109 server established!
+11:54:23 ::Сonnection to 127.0.0.1 server established!
+12:34:16 ::Сonnection to 192.168.0.109 server established!
+12:40:43 ::Сonnection to 127.0.0.1 server established!
+12:43:08 ::Сonnection to 192.168.0.109 server established!
+12:53:38 ::Сonnection to 192.168.0.109 server established!
+13:02:48 ::Server (192.168.0.109) reboot will probably be done in 60 seconds.
+22:12:16 ::Сonnection to 192.168.0.109 server established!
+22:28:46 ::Сonnection to 192.168.0.109 server established!
+22:29:11 ::Сonnection to 192.168.0.109 server established!
+22:31:29 ::Сonnection to 192.168.0.109 server established!
+22:31:56 ::Сonnection to 192.168.0.109 server established!
+22:36:46 ::Сonnection to 192.168.0.109 server established!
+22:37:34 ::Сonnection to 192.168.0.109 server established!
+22:40:37 ::Сonnection to 192.168.0.109 server established!
+22:41:07 ::Сonnection to 192.168.0.109 server established!
+22:41:39 ::Сonnection to 192.168.0.109 server established!
+22:59:26 ::Сonnection to 192.168.0.109 server established!
+23:01:24 ::Сonnection to 192.168.0.109 server established!
+23:04:50 ::Сonnection to 192.168.0.109 server established!
+18:03:10 ::Сonnection to 192.168.0.109 server established!
+22:21:50 ::Сonnection to 192.168.0.109 server established!
+22:23:20 ::Сonnection to 192.168.0.109 server established!
+22:25:13 ::Сonnection to 192.168.0.109 server established!
+22:30:35 ::Сonnection to 192.168.0.109 server established!
+22:32:17 ::Сonnection to 192.168.0.109 server established!
+22:33:10 ::Сonnection to 192.168.0.109 server established!
+22:34:06 ::Сonnection to 192.168.0.109 server established!
+22:36:40 ::Сonnection to 192.168.0.109 server established!
+18:50:50 ::Сonnection to 127.0.0.1 server established!
+18:51:13 ::File (C:\Новая папка\__chloe_von_einzbern_fate_and_1_more_drawn_by_kaamin_mariarose753__1b555dc9d38523667bff408e706d0e05.jpg) doesn't exist. Client: 127.0.0.1
+18:51:45 ::File (C:\Новая папка\__usada_pekora_hololive_drawn_by_gawain_artist__7100aada9c4882d566ce0b54899ae543.jpg) doesn't exist. Client: 127.0.0.1
+21:31:19 ::Сonnection to 127.0.0.1 server established!
+21:31:48 ::Deleting file (C:\Новая папка\M1918-BAR-(Girls-Frontline)-Girls-Frontline-Anime-Tesun-(g-noh)-5864822.png) Client: 127.0.0.1
+21:32:56 ::Сonnection to 127.0.0.1 server established!
+21:33:13 ::Сonnection to 127.0.0.1 server established!
+21:34:45 ::Сonnection to 127.0.0.1 server established!
+21:47:03 ::Сonnection to 127.0.0.1 server established!
+22:29:06 ::Сonnection to 127.0.0.1 server established!
+22:29:14 ::Launch file (C:\Новая папка\__reisen_udongein_inaba_touhou_drawn_by_diving_penguin__bcef30cbf884fc2a76a357dd44b44bd5.jpg) Client: 127.0.0.1
+22:38:25 ::Сonnection to 127.0.0.1 server established!
+22:38:38 ::Launch file (C:\Новая папка\__reisen_udongein_inaba_touhou_drawn_by_diving_penguin__bcef30cbf884fc2a76a357dd44b44bd5.jpg) Client: 127.0.0.1
+22:57:43 ::Сonnection to 127.0.0.1 server established!
+23:12:00 ::Сonnection to 127.0.0.1 server established!
+23:12:31 ::Send file (C:\Новая папка\art-Fantasy-Tiago-Sousa-6043407.jpeg) to 127.0.0.1 server
+23:13:08 ::Send file (C:\Новая папка\art-Fantasy-Tiago-Sousa-6043407.jpeg) to 127.0.0.1 server
+23:13:47 ::Send file (C:\Новая папка\art-Fantasy-Tiago-Sousa-6043407.jpeg) to 127.0.0.1 server
+23:14:18 ::Сonnection to 127.0.0.1 server established!
+23:14:31 ::Send file (C:\Новая папка\art-Fantasy-Tiago-Sousa-6043407.jpeg) to 127.0.0.1 server
+23:15:17 ::Launch file (D:\__reisen_udongein_inaba_touhou_drawn_by_diving_penguin__bcef30cbf884fc2a76a357dd44b44bd5.jpg) Client: 127.0.0.1
+23:20:38 ::Сonnection to 127.0.0.1 server established!
+23:21:22 ::Send file (C:\Новая папка\__reisen_udongein_inaba_touhou_drawn_by_diving_penguin__bcef30cbf884fc2a76a357dd44b44bd5.jpg) to 127.0.0.1 server
+23:31:11 ::Сonnection to 127.0.0.1 server established!
+23:33:04 ::Сonnection to 127.0.0.1 server established!
+23:33:39 ::Send file (C:\Новая папка\Eai502aVAAAGEZR.jpg) to 127.0.0.1 server
+15:25:00 ::Сonnection to 192.168.0.109 server established!
+15:29:05 ::Сonnection to 192.168.0.109 server established!
+15:29:55 ::Launch file (C:\Новая папка\__reisen_udongein_inaba_touhou_drawn_by_diving_penguin__bcef30cbf884fc2a76a357dd44b44bd5.jpg) Client: 192.168.0.107
+15:31:17 ::Сonnection to 127.0.0.1 server established!
+15:32:33 ::Сonnection to 192.168.0.109 server established!
+15:33:18 ::Сonnection to 192.168.0.109 server established!
+15:34:33 ::Сonnection to 192.168.0.109 server established!
+15:37:51 ::Сonnection to 192.168.0.109 server established!
+15:39:45 ::Сonnection to 192.168.0.109 server established!
+15:41:37 ::Сonnection to 192.168.0.109 server established!
+15:50:43 ::Сonnection to 192.168.0.109 server established!
+15:56:48 ::Сonnection to 192.168.0.109 server established!
+15:58:04 ::Сonnection to 192.168.0.109 server established!
+15:59:17 ::Сonnection to 192.168.0.109 server established!
+16:03:59 ::Сonnection to 192.168.0.107 server established!
+16:05:01 ::Delete file (D:\Общее\[anti-raws]Kill la Kill creditless ED1[BDRemux].mkv) failed. Client: 192.168.0.107
+16:05:08 ::Delete file (D:\Общее\[anti-raws]Kill la Kill creditless ED1[BDRemux].mkv) failed. Client: 192.168.0.107
+16:06:01 ::Сonnection to 127.0.0.1 server established!
+16:07:57 ::Сonnection to 192.168.0.109 server established!
+11:37:05 ::Сonnection to 127.0.0.1 server established!
+14:29:29 ::Сonnection to 127.0.0.1 server established!
+14:36:43 ::Сonnection to 127.0.0.1 server established!
+15:40:21 ::Сonnection to 127.0.0.1 server established!
+15:42:18 ::Сonnection to 127.0.0.1 server established!
+15:53:15 ::Сonnection to 127.0.0.1 server established!
+17:05:30 ::Сonnection to 192.168.0.120 server established!
+19:46:51 ::Сonnection to 127.0.0.1 server established!
+20:16:18 ::Сonnection to 127.0.0.1 server established!
+22:09:01 ::Сonnection to 127.0.0.1 server established!
+22:10:05 ::Сonnection to 127.0.0.1 server established!
+22:10:58 ::Сonnection to 127.0.0.1 server established!
+22:11:42 ::Сonnection to 127.0.0.1 server established!
+22:12:56 ::Сonnection to 127.0.0.1 server established!
+22:13:29 ::Сonnection to 127.0.0.1 server established!
+22:14:23 ::Сonnection to 127.0.0.1 server established!
+10:54:56 ::Сonnection to 127.0.0.1 server established!
+23:24:25 ::Сonnection to 127.0.0.1 server established!
+23:25:20 ::Сonnection to 127.0.0.1 server established!
+23:25:57 ::Сonnection to 127.0.0.1 server established!
+11:53:22 ::Сonnection to 127.0.0.1 server established!
+11:54:37 ::Сonnection to 127.0.0.1 server established!

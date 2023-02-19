@@ -1,0 +1,10 @@
+D:\VisualStudio\WCF\Kursach_Uchet_Internet_Uslug\obj\Debug\Kursach_Uchet_Internet_Uslug.csprojAssemblyReference.cache
+D:\VisualStudio\WCF\Kursach_Uchet_Internet_Uslug\bin\Debug\Kursach_Uchet_Internet_Uslug.dll.config
+D:\VisualStudio\WCF\Kursach_Uchet_Internet_Uslug\bin\Debug\Kursach_Uchet_Internet_Uslug.dll
+D:\VisualStudio\WCF\Kursach_Uchet_Internet_Uslug\bin\Debug\Kursach_Uchet_Internet_Uslug.pdb
+D:\VisualStudio\WCF\Kursach_Uchet_Internet_Uslug\bin\Debug\Microsoft.Analytics.Interfaces.dll
+D:\VisualStudio\WCF\Kursach_Uchet_Internet_Uslug\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+D:\VisualStudio\WCF\Kursach_Uchet_Internet_Uslug\bin\Debug\Microsoft.Analytics.Types.dll
+D:\VisualStudio\WCF\Kursach_Uchet_Internet_Uslug\obj\Debug\Kursach_Uchet_Internet_Uslug.csproj.CopyComplete
+D:\VisualStudio\WCF\Kursach_Uchet_Internet_Uslug\obj\Debug\Kursach_Uchet_Internet_Uslug.dll
+D:\VisualStudio\WCF\Kursach_Uchet_Internet_Uslug\obj\Debug\Kursach_Uchet_Internet_Uslug.pdb

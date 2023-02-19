@@ -1,0 +1,15 @@
+D:\VisualStudio\TestFunction\Client\Client\bin\Release\Client.exe.config
+D:\VisualStudio\TestFunction\Client\Client\bin\Release\Client.exe
+D:\VisualStudio\TestFunction\Client\Client\bin\Release\Client.pdb
+D:\VisualStudio\TestFunction\Client\Client\obj\Release\Client.Properties.Resources.resources
+D:\VisualStudio\TestFunction\Client\Client\obj\Release\Client.csproj.GenerateResource.cache
+D:\VisualStudio\TestFunction\Client\Client\obj\Release\Client.exe
+D:\VisualStudio\TestFunction\Client\Client\obj\Release\Client.pdb
+D:\VisualStudio\TestFunction\Client\Client\bin\Release\ClassLibraryRemotePC.dll
+D:\VisualStudio\TestFunction\Client\Client\bin\Release\ClassLibraryRemotePC.pdb
+D:\VisualStudio\TestFunction\Client\Client\bin\Release\ClassLibraryRemotePC.xml
+D:\VisualStudio\TestFunction\Client\Client\obj\Release\Client.csprojAssemblyReference.cache
+D:\VisualStudio\TestFunction\Client\Client\obj\Release\Client.FileManager.resources
+D:\VisualStudio\TestFunction\Client\Client\obj\Release\Client.MainForm.resources
+D:\VisualStudio\TestFunction\Client\Client\obj\Release\Client.RemoteScreen.resources
+D:\VisualStudio\TestFunction\Client\Client\obj\Release\Client.csproj.CopyComplete

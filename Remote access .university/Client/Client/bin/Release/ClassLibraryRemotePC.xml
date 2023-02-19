@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ClassLibraryRemotePC</name>
+    </assembly>
+    <members>
+        <member name="T:ClassLibraryRemotePC.FileManagerInfo">
+            <summary>
+            Предоставляет механизмы для получения информации о логических дисках и объектах файловой системы.
+            </summary>
+        </member>
+        <member name="P:ClassLibraryRemotePC.FileManagerInfo.Data">
+            <summary>
+            Сериализированный объект FileManagerInfo.
+            </summary>
+        </member>
+        <member name="P:ClassLibraryRemotePC.FileManagerInfo.drivesInfo">
+            <summary>
+            Содержит информацию о логических дисках.
+            </summary>
+        </member>
+        <member name="P:ClassLibraryRemotePC.FileManagerInfo.fileSystemObjectsInfo">
+            <summary>
+            Содержит информацио о объектах определенного каталога.
+            </summary>
+        </member>
+        <member name="M:ClassLibraryRemotePC.FileManagerInfo.#ctor">
+            <summary>
+            Инормация о всех логических дисках и объектах корневого каталога первого считанного логического диска.
+            </summary>
+        </member>
+        <member name="M:ClassLibraryRemotePC.FileManagerInfo.#ctor(System.String)">
+            <summary>
+            Инормация о всех логических дисках и объектах указанного каталога.
+            </summary>
+            <param name="fullPath">Абсолютный путь каталога.</param>
+        </member>
+        <member name="M:ClassLibraryRemotePC.FileManagerInfo.#ctor(System.Byte[])">
+            <summary>
+            Создает FileManagerInfo на основе массива байт.
+            </summary>
+            <param name="data">Массив байт с сериализованным объектом FileManagerInfo</param>
+        </member>
+        <member name="M:ClassLibraryRemotePC.FileManagerInfo.ToArray">
+            <summary>
+            Сериализирует объект FileManagerInfo в массив байт.
+            </summary>
+            <returns>Массив байт.</returns>
+        </member>
+        <member name="M:ClassLibraryRemotePC.FileManagerInfo.FromArray(System.Byte[])">
+            <summary>
+            Десериализирует объект FileManagerInfo из массива байт.
+            </summary>
+            <param name="data">Массив байт.</param>
+            <returns>Объект FileManagerInfo полученный в результате десериализации.</returns>
+        </member>
+        <member name="T:ClassLibraryRemotePC.OperationCod">
+            <summary>
+            Класс предоставляющий механизмы управлением работой нескольких компьютеров. Сериализуемый.
+            </summary>
+        </member>
+        <member name="P:ClassLibraryRemotePC.OperationCod.Data">
+            <summary>
+            Сериализированный объект OperationCod.
+            </summary>
+        </member>
+        <member name="M:ClassLibraryRemotePC.OperationCod.#ctor(System.Int16,System.Collections.Generic.List{System.UInt16},System.UInt16,System.Int16,System.Boolean,System.Int16,System.Int16,System.Int16,System.Int16,System.Int16)">
+            <summary>
+            Создает объект OperationCod.
+            </summary>
+            <param name="pcNumber">Номер ПК, котрый должен выполнить операцию предписанную в КОП.</param>
+            <param name="operationTypes">Тип операции. Первым в списке всегда идет номер типа к которому
+            относится параметр "operationNumber"</param>
+            <param name="operationNumber">Номер операции в пределах типа операции.</param>
+            <param name="operationStatus">Статус операции.
+            -1 - заблокирована; 0 - не установлена на выполнение;
+            1 - установлена на выполнение (ожидает подтверждения).</param>
+            <param name="isChain">Цепочка КОП или нет. Если false, следующие параметры можно указать любыми.</param>
+            <param name="numberLinkedPC">Номер ПК с которым связана цепочка. Может быть тот же номер что и в поле "pcNumber".</param>
+            <param name="chainPartNumber">Номер части цепочки.</param>
+            <param name="totalPartsInChain">Общее количество частей в цепочке. Счет от 0!!!</param>
+            <param name="codeNumberInPart">Номер КОП в части цепочки.</param>
+            <param name="totalCodesInPart">Обшее количество КОП внутри части цепочки. Счет от 0!!!</param>
+        </member>
+        <member name="M:ClassLibraryRemotePC.OperationCod.#ctor(System.Byte[])">
+            <summary>
+            Создает OperationCod на основе массива байт.
+            </summary>
+            <param name="data">Массив байт с сериализованным объектом OperationCod</param>
+        </member>
+        <member name="M:ClassLibraryRemotePC.OperationCod.ToArray">
+            <summary>
+            Сериализирует объект OperationCod в массив байт.
+            </summary>
+            <returns>Массив байт.</returns>
+        </member>
+        <member name="M:ClassLibraryRemotePC.OperationCod.FromArray(System.Byte[])">
+            <summary>
+            Десериализирует объект OperationCod из массива байт.
+            </summary>
+            <param name="data">Массив байт.</param>
+            <returns>Объект OperationCod полученный в результате десериализации.</returns>
+        </member>
+    </members>
+</doc>

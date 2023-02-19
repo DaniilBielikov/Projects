@@ -1,0 +1,13 @@
+D:\VisualStudio\TestFunction\ClassLibraryRemotePC\ClassLibraryRemotePC\obj\Debug\ClassLibraryRemotePC.csprojAssemblyReference.cache
+D:\VisualStudio\TestFunction\ClassLibraryRemotePC\ClassLibraryRemotePC\bin\Debug\ClassLibraryRemotePC.dll
+D:\VisualStudio\TestFunction\ClassLibraryRemotePC\ClassLibraryRemotePC\bin\Debug\ClassLibraryRemotePC.pdb
+D:\VisualStudio\TestFunction\ClassLibraryRemotePC\ClassLibraryRemotePC\obj\Debug\ClassLibraryRemotePC.dll
+D:\VisualStudio\TestFunction\ClassLibraryRemotePC\ClassLibraryRemotePC\obj\Debug\ClassLibraryRemotePC.pdb
+D:\VisualStudio\TestFunction\ClassLibraryRemotePC\ClassLibraryRemotePC\bin\Debug\ClassLibraryRemotePC.xml
+D:\Programming\VisualStudio\TestFunction\ClassLibraryRemotePC\ClassLibraryRemotePC\bin\Debug\ClassLibraryRemotePC.xml
+D:\Programming\VisualStudio\TestFunction\ClassLibraryRemotePC\ClassLibraryRemotePC\bin\Debug\ClassLibraryRemotePC.dll
+D:\Programming\VisualStudio\TestFunction\ClassLibraryRemotePC\ClassLibraryRemotePC\bin\Debug\ClassLibraryRemotePC.pdb
+D:\Programming\VisualStudio\TestFunction\ClassLibraryRemotePC\ClassLibraryRemotePC\obj\Debug\ClassLibraryRemotePC.csprojAssemblyReference.cache
+D:\Programming\VisualStudio\TestFunction\ClassLibraryRemotePC\ClassLibraryRemotePC\obj\Debug\ClassLibraryRemotePC.csproj.CoreCompileInputs.cache
+D:\Programming\VisualStudio\TestFunction\ClassLibraryRemotePC\ClassLibraryRemotePC\obj\Debug\ClassLibraryRemotePC.dll
+D:\Programming\VisualStudio\TestFunction\ClassLibraryRemotePC\ClassLibraryRemotePC\obj\Debug\ClassLibraryRemotePC.pdb

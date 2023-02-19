@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ClassLibraryRemotePC.FileManagerInfo" Collapsed="true">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAJAAAAIAAggAAAAgQAgABABIAAAAAAAhAEAA=</HashCode>
+      <FileName>FileManagerInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibraryRemotePC.NetFile" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAgAAAgEAABAAAAAAAABAAAA=</HashCode>
+      <FileName>NetFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibraryRemotePC.NetImage" Collapsed="true">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAAEgAAABAAAAAAAABAAAA=</HashCode>
+      <FileName>NetImage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibraryRemotePC.OperationCod" Collapsed="true">
+    <Position X="4.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAABAAAAAAhACAwAAAgAgAAgBBAgQAAAgBAAAA=</HashCode>
+      <FileName>OperationCod.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibraryRemotePC.OperationControl" Collapsed="true">
+    <Position X="6.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAgIAAQAEBAAAAEABAAAAAAEAAIAAgAAAA=</HashCode>
+      <FileName>OperationControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibraryRemotePC.OperationFlags" Collapsed="true">
+    <Position X="8" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>OperationFlags.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibraryRemotePC.OperationInterpreter" Collapsed="true">
+    <Position X="4.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>4AEkgAiRSIACIAYICEQAAIQAAABAQAIAAACCACIQSKA=</HashCode>
+      <FileName>OperationInterpreter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

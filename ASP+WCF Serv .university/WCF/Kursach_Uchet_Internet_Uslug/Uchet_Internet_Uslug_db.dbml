@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Kursach_Uchet_Internet_Uslug" Class="Uchet_Internet_Uslug_dbDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-G2H5LGR;Initial Catalog=Kursach_Uchet_Internet_Uslug;Integrated Security=True" SettingsObjectName="Kursach_Uchet_Internet_Uslug.Properties.Settings" SettingsPropertyName="Kursach_Uchet_Internet_UslugConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Adresa" Member="Adresa">
+    <Type Name="Adresa">
+      <Column Name="Id_Adresa" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Id_Ulizi" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Nomer_doma" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="Nomer_Kvartiri" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Association Name="Adresa_Klienti" Member="Klienti" ThisKey="Id_Adresa" OtherKey="Id_Adresa" Type="Klienti" />
+      <Association Name="Ulizi_Adresa" Member="Ulizi" ThisKey="Id_Ulizi" OtherKey="Id_Ulizi" Type="Ulizi" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Uslugi" Member="Uslugi">
+    <Type Name="Uslugi">
+      <Column Name="Id_Uslugi" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Nazvanie" Type="System.String" DbType="VarChar(25) NOT NULL" CanBeNull="false" />
+      <Column Name="Opisanie" Type="System.String" DbType="VarChar(1000) NOT NULL" CanBeNull="false" />
+      <Column Name="Zena" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Aktualna" Type="System.String" DbType="VarChar(1) NOT NULL" CanBeNull="false" />
+      <Column Name="Data_s" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="Data_po" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Association Name="Uslugi_Klient_Uslugi" Member="Klient_Uslugi" ThisKey="Id_Uslugi" OtherKey="Id_Uslugi" Type="Klient_Uslugi" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Doljnosti" Member="Doljnosti">
+    <Type Name="Doljnosti">
+      <Column Name="Id_Doljnosti" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Nazvanie" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Oklad" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Opisanie" Type="System.String" DbType="VarChar(1000) NOT NULL" CanBeNull="false" />
+      <Association Name="Doljnosti_Sotrudniki_Doljnosti" Member="Sotrudniki_Doljnosti" ThisKey="Id_Doljnosti" OtherKey="Id_Doljnosti" Type="Sotrudniki_Doljnosti" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Goroda" Member="Goroda">
+    <Type Name="Goroda">
+      <Column Name="Id_Goroda" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Nazvanie" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="Goroda_Rayoni" Member="Rayoni" ThisKey="Id_Goroda" OtherKey="Id_Goroda" Type="Rayoni" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Istoriya_Oplati" Member="Istoriya_Oplati">
+    <Type Name="Istoriya_Oplati">
+      <Column Name="Id_Istorii_oplati" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Summa" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Id_Klient_Uslugi" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Data_oplati" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="Resultat_Oplati" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Association Name="Klient_Uslugi_Istoriya_Oplati" Member="Klient_Uslugi" ThisKey="Id_Klient_Uslugi" OtherKey="Id_Klient_Uslugi" Type="Klient_Uslugi" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Klient_Uslugi" Member="Klient_Uslugi">
+    <Type Name="Klient_Uslugi">
+      <Column Name="Id_Klient_Uslugi" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Id_Sotrudnika" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Id_Klienta" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Id_Uslugi" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Dara_nachala" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="Data_konza" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Association Name="Klient_Uslugi_Istoriya_Oplati" Member="Istoriya_Oplati" ThisKey="Id_Klient_Uslugi" OtherKey="Id_Klient_Uslugi" Type="Istoriya_Oplati" />
+      <Association Name="Uslugi_Klient_Uslugi" Member="Uslugi" ThisKey="Id_Uslugi" OtherKey="Id_Uslugi" Type="Uslugi" IsForeignKey="true" />
+      <Association Name="Klienti_Klient_Uslugi" Member="Klienti" ThisKey="Id_Klienta" OtherKey="Id_Klienta" Type="Klienti" IsForeignKey="true" />
+      <Association Name="Sotrudniki_Klient_Uslugi" Member="Sotrudniki" ThisKey="Id_Sotrudnika" OtherKey="Id_Sotrudnika" Type="Sotrudniki" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Klienti" Member="Klienti">
+    <Type Name="Klienti">
+      <Column Name="Id_Klienta" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Familiya" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="Imya" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="Otchestvo" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="Telefon" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="Pasport" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="INN" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="Id_Adresa" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Id_Scheta" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Data_podklucheniya" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="Data_otklucheniya" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Association Name="Klienti_Klient_Uslugi" Member="Klient_Uslugi" ThisKey="Id_Klienta" OtherKey="Id_Klienta" Type="Klient_Uslugi" />
+      <Association Name="Adresa_Klienti" Member="Adresa" ThisKey="Id_Adresa" OtherKey="Id_Adresa" Type="Adresa" IsForeignKey="true" />
+      <Association Name="Scheta_Klienti" Member="Scheta" ThisKey="Id_Scheta" OtherKey="Id_Scheta" Type="Scheta" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Rayoni" Member="Rayoni">
+    <Type Name="Rayoni">
+      <Column Name="Id_Rayona" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Nazvanie" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="Id_Goroda" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Rayoni_Ulizi" Member="Ulizi" ThisKey="Id_Rayona" OtherKey="Id_Rayona" Type="Ulizi" />
+      <Association Name="Goroda_Rayoni" Member="Goroda" ThisKey="Id_Goroda" OtherKey="Id_Goroda" Type="Goroda" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Scheta" Member="Scheta">
+    <Type Name="Scheta">
+      <Column Name="Id_Scheta" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Summa" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Scheta_Klienti" Member="Klienti" ThisKey="Id_Scheta" OtherKey="Id_Scheta" Type="Klienti" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Sotrudniki" Member="Sotrudniki">
+    <Type Name="Sotrudniki">
+      <Column Name="Id_Sotrudnika" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Familiya" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="Imya" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="Otchestvo" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="Telefon" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="E_mail" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="Pasport" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="INN" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="Date_reg" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Association Name="Sotrudniki_Klient_Uslugi" Member="Klient_Uslugi" ThisKey="Id_Sotrudnika" OtherKey="Id_Sotrudnika" Type="Klient_Uslugi" />
+      <Association Name="Sotrudniki_Sotrudniki_Doljnosti" Member="Sotrudniki_Doljnosti" ThisKey="Id_Sotrudnika" OtherKey="Id_Sotrudnika" Type="Sotrudniki_Doljnosti" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Sotrudniki_Doljnosti" Member="Sotrudniki_Doljnosti">
+    <Type Name="Sotrudniki_Doljnosti">
+      <Column Name="Id_Sotrudniki_Doljnosti" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Id_Doljnosti" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Id_Sotrudnika" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Data_s" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="Data_po" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Association Name="Doljnosti_Sotrudniki_Doljnosti" Member="Doljnosti" ThisKey="Id_Doljnosti" OtherKey="Id_Doljnosti" Type="Doljnosti" IsForeignKey="true" />
+      <Association Name="Sotrudniki_Sotrudniki_Doljnosti" Member="Sotrudniki" ThisKey="Id_Sotrudnika" OtherKey="Id_Sotrudnika" Type="Sotrudniki" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Ulizi" Member="Ulizi">
+    <Type Name="Ulizi">
+      <Column Name="Id_Ulizi" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Nazvanie" Type="System.String" DbType="VarChar(25) NOT NULL" CanBeNull="false" />
+      <Column Name="Id_Rayona" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Ulizi_Adresa" Member="Adresa" ThisKey="Id_Ulizi" OtherKey="Id_Ulizi" Type="Adresa" />
+      <Association Name="Rayoni_Ulizi" Member="Rayoni" ThisKey="Id_Rayona" OtherKey="Id_Rayona" Type="Rayoni" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

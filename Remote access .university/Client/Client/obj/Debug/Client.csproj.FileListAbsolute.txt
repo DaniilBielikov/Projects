@@ -1,0 +1,47 @@
+D:\VisualStudio\TestFunction\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\VisualStudio\TestFunction\Client\Client\obj\Debug\Client.Properties.Resources.resources
+D:\VisualStudio\TestFunction\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\VisualStudio\TestFunction\Client\Client\bin\Debug\Client.exe.config
+D:\VisualStudio\TestFunction\Client\Client\bin\Debug\Client.exe
+D:\VisualStudio\TestFunction\Client\Client\bin\Debug\Client.pdb
+D:\VisualStudio\TestFunction\Client\Client\obj\Debug\Client.exe
+D:\VisualStudio\TestFunction\Client\Client\obj\Debug\Client.pdb
+D:\VisualStudio\TestFunction\Client\Client\bin\Debug\ClassLibraryRemotePC.dll
+D:\VisualStudio\TestFunction\Client\Client\bin\Debug\ClassLibraryRemotePC.pdb
+D:\VisualStudio\TestFunction\Client\Client\obj\Debug\Client.csproj.CopyComplete
+D:\VisualStudio\TestFunction\Client\Client\bin\Debug\ClassLibraryRemotePC.xml
+D:\VisualStudio\TestFunction\Client\Client\obj\Debug\Client.MainForm.resources
+D:\VisualStudio\TestFunction\Client\Client\obj\Debug\Client.FileManager.resources
+D:\VisualStudio\TestFunction\Client\Client\obj\Debug\Client.RemoteScreen.resources
+D:\Programming\VisualStudio\TestFunction\Client\Client\bin\Debug\Client.exe.config
+D:\Programming\VisualStudio\TestFunction\Client\Client\bin\Debug\Client.exe
+D:\Programming\VisualStudio\TestFunction\Client\Client\bin\Debug\Client.pdb
+D:\Programming\VisualStudio\TestFunction\Client\Client\bin\Debug\ClassLibraryRemotePC.dll
+D:\Programming\VisualStudio\TestFunction\Client\Client\bin\Debug\ClassLibraryRemotePC.pdb
+D:\Programming\VisualStudio\TestFunction\Client\Client\bin\Debug\ClassLibraryRemotePC.xml
+D:\Programming\VisualStudio\TestFunction\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\Programming\VisualStudio\TestFunction\Client\Client\obj\Debug\Client.FileManager.resources
+D:\Programming\VisualStudio\TestFunction\Client\Client\obj\Debug\Client.MainForm.resources
+D:\Programming\VisualStudio\TestFunction\Client\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Programming\VisualStudio\TestFunction\Client\Client\obj\Debug\Client.RemoteScreen.resources
+D:\Programming\VisualStudio\TestFunction\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\Programming\VisualStudio\TestFunction\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Programming\VisualStudio\TestFunction\Client\Client\obj\Debug\Client.csproj.CopyComplete
+D:\Programming\VisualStudio\TestFunction\Client\Client\obj\Debug\Client.exe
+D:\Programming\VisualStudio\TestFunction\Client\Client\obj\Debug\Client.pdb
+D:\Programming\VisualStudio\Remote access\Client\Client\bin\Debug\Client.exe.config
+D:\Programming\VisualStudio\Remote access\Client\Client\bin\Debug\Client.exe
+D:\Programming\VisualStudio\Remote access\Client\Client\bin\Debug\Client.pdb
+D:\Programming\VisualStudio\Remote access\Client\Client\bin\Debug\ClassLibraryRemotePC.dll
+D:\Programming\VisualStudio\Remote access\Client\Client\bin\Debug\ClassLibraryRemotePC.pdb
+D:\Programming\VisualStudio\Remote access\Client\Client\bin\Debug\ClassLibraryRemotePC.xml
+D:\Programming\VisualStudio\Remote access\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\Programming\VisualStudio\Remote access\Client\Client\obj\Debug\Client.FileManager.resources
+D:\Programming\VisualStudio\Remote access\Client\Client\obj\Debug\Client.MainForm.resources
+D:\Programming\VisualStudio\Remote access\Client\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Programming\VisualStudio\Remote access\Client\Client\obj\Debug\Client.RemoteScreen.resources
+D:\Programming\VisualStudio\Remote access\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\Programming\VisualStudio\Remote access\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Programming\VisualStudio\Remote access\Client\Client\obj\Debug\Client.csproj.CopyComplete
+D:\Programming\VisualStudio\Remote access\Client\Client\obj\Debug\Client.exe
+D:\Programming\VisualStudio\Remote access\Client\Client\obj\Debug\Client.pdb

@@ -1,0 +1,18 @@
+I:\VisualStudio\Segmentation and other\Core\bin\Debug\Core.dll
+I:\VisualStudio\Segmentation and other\Core\bin\Debug\Core.pdb
+I:\VisualStudio\Segmentation and other\Core\obj\Debug\Core.csprojAssemblyReference.cache
+I:\VisualStudio\Segmentation and other\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+I:\VisualStudio\Segmentation and other\Core\obj\Debug\Core.dll
+I:\VisualStudio\Segmentation and other\Core\obj\Debug\Core.pdb
+J:\VisualStudio\Segmentation and other\Core\bin\Debug\Core.dll
+J:\VisualStudio\Segmentation and other\Core\bin\Debug\Core.pdb
+J:\VisualStudio\Segmentation and other\Core\obj\Debug\Core.csprojAssemblyReference.cache
+J:\VisualStudio\Segmentation and other\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+J:\VisualStudio\Segmentation and other\Core\obj\Debug\Core.dll
+J:\VisualStudio\Segmentation and other\Core\obj\Debug\Core.pdb
+D:\Programming\VisualStudio\Cтарые проекты\Segmentation and other\Core\bin\Debug\Core.dll
+D:\Programming\VisualStudio\Cтарые проекты\Segmentation and other\Core\bin\Debug\Core.pdb
+D:\Programming\VisualStudio\Cтарые проекты\Segmentation and other\Core\obj\Debug\Core.csprojAssemblyReference.cache
+D:\Programming\VisualStudio\Cтарые проекты\Segmentation and other\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+D:\Programming\VisualStudio\Cтарые проекты\Segmentation and other\Core\obj\Debug\Core.dll
+D:\Programming\VisualStudio\Cтарые проекты\Segmentation and other\Core\obj\Debug\Core.pdb

@@ -1,0 +1,6 @@
+I:\VisualStudio\Segmentation and other\Core\bin\Release\Core.dll
+I:\VisualStudio\Segmentation and other\Core\bin\Release\Core.pdb
+I:\VisualStudio\Segmentation and other\Core\obj\Release\Core.csprojAssemblyReference.cache
+I:\VisualStudio\Segmentation and other\Core\obj\Release\Core.csproj.CoreCompileInputs.cache
+I:\VisualStudio\Segmentation and other\Core\obj\Release\Core.dll
+I:\VisualStudio\Segmentation and other\Core\obj\Release\Core.pdb

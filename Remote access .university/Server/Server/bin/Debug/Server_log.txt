@@ -1,0 +1,511 @@
+21:55:11 ::Server started! Port number 49152. Waiting connection...
+21:56:45 ::Server Stopped!
+21:56:57 ::Server started! Port number 49153. Waiting connection...
+21:57:08 ::Client 127.0.0.1 connected!
+21:57:12 ::Start broadcasting screen to 127.0.0.1 client
+21:57:14 ::Stop broadcasting screen to 127.0.0.1 client
+17:14:27 ::Server started! Port number 49152. Waiting connection...
+17:14:48 ::Server started! Port number 49152. Waiting connection...
+17:14:53 ::Client 127.0.0.1 connected!
+17:15:37 ::Server started! Port number 49152. Waiting connection...
+17:15:57 ::Client 127.0.0.1 connected!
+17:16:47 ::Server started! Port number 49152. Waiting connection...
+17:16:50 ::Client 127.0.0.1 connected!
+17:19:53 ::Server started! Port number 49152. Waiting connection...
+17:20:53 ::Client 127.0.0.1 connected!
+17:21:59 ::Server started! Port number 49152. Waiting connection...
+17:22:03 ::Client 127.0.0.1 connected!
+17:22:09 ::Start broadcasting screen to 127.0.0.1 client
+17:22:12 ::Stop broadcasting screen to 127.0.0.1 client
+17:22:40 ::Server started! Port number 49152. Waiting connection...
+17:23:33 ::Server started! Port number 49152. Waiting connection...
+17:23:49 ::Client 127.0.0.1 connected!
+17:23:59 ::Start broadcasting screen to 127.0.0.1 client
+17:24:01 ::Stop broadcasting screen to 127.0.0.1 client
+12:52:52 ::Server started! Port number 49152. Waiting connection...
+12:56:01 ::Server started! Port number 49152. Waiting connection...
+12:56:06 ::Client 127.0.0.1 connected!
+12:56:46 ::Server started! Port number 49152. Waiting connection...
+12:56:47 ::Server Stopped!
+12:56:48 ::Server started! Port number 49152. Waiting connection...
+12:56:51 ::Client 127.0.0.1 connected!
+13:00:15 ::Server started! Port number 49152. Waiting connection...
+13:00:31 ::Client 127.0.0.1 connected!
+13:02:10 ::Server started! Port number 49152. Waiting connection...
+13:04:11 ::Client 127.0.0.1 connected!
+13:06:35 ::Server started! Port number 49152. Waiting connection...
+13:06:46 ::Client 127.0.0.1 connected!
+13:48:27 ::Server started! Port number 49152. Waiting connection...
+13:48:46 ::Client 127.0.0.1 connected!
+13:54:00 ::Server started! Port number 49152. Waiting connection...
+13:54:02 ::Client 127.0.0.1 connected!
+13:54:43 ::Server started! Port number 49152. Waiting connection...
+13:55:08 ::Client 127.0.0.1 connected!
+13:56:29 ::Server started! Port number 49152. Waiting connection...
+13:56:35 ::Server started! Port number 49152. Waiting connection...
+13:56:39 ::Client 127.0.0.1 connected!
+13:57:43 ::Server started! Port number 49152. Waiting connection...
+13:58:07 ::Client 127.0.0.1 connected!
+14:31:01 ::Server started! Port number 49152. Waiting connection...
+14:31:04 ::Client 127.0.0.1 connected!
+14:33:43 ::Server started! Port number 49152. Waiting connection...
+14:33:50 ::Client 127.0.0.1 connected!
+14:50:33 ::Server started! Port number 49152. Waiting connection...
+15:26:39 ::Server started! Port number 49152. Waiting connection...
+15:26:48 ::Client 127.0.0.1 connected!
+15:28:44 ::Client 192.168.0.109 connected!
+15:30:54 ::Server started! Port number 49152. Waiting connection...
+15:31:02 ::Client 127.0.0.1 connected!
+15:37:19 ::Client 192.168.0.109 connected!
+15:45:33 ::Server started! Port number 49152. Waiting connection...
+15:45:40 ::Client 127.0.0.1 connected!
+15:45:59 ::Client 192.168.0.109 connected!
+16:33:36 ::Server started! Port number 49152. Waiting connection...
+16:33:42 ::Client 127.0.0.1 connected!
+16:33:59 ::Start broadcasting screen to 127.0.0.1 client
+16:34:44 ::Client 192.168.0.109 connected!
+16:34:53 ::Start broadcasting screen to 192.168.0.109 client
+16:35:56 ::Server started! Port number 49152. Waiting connection...
+16:36:08 ::Client 127.0.0.1 connected!
+16:36:12 ::Start broadcasting screen to 127.0.0.1 client
+16:36:28 ::Client 192.168.0.109 connected!
+16:36:34 ::Start broadcasting screen to 192.168.0.109 client
+16:41:38 ::Server started! Port number 49152. Waiting connection...
+16:41:47 ::Client 127.0.0.1 connected!
+16:43:02 ::Server started! Port number 49152. Waiting connection...
+16:43:07 ::Client 127.0.0.1 connected!
+16:43:08 ::Start broadcasting screen to 127.0.0.1 client
+16:43:18 ::Client 192.168.0.109 connected!
+16:43:19 ::Start broadcasting screen to 192.168.0.109 client
+16:47:32 ::Server started! Port number 49152. Waiting connection...
+16:47:43 ::Client 127.0.0.1 connected!
+16:47:44 ::Start broadcasting screen to 127.0.0.1 client
+16:47:59 ::Client 192.168.0.109 connected!
+16:48:01 ::Start broadcasting screen to 192.168.0.109 client
+16:48:35 ::Server started! Port number 49152. Waiting connection...
+16:48:49 ::Server started! Port number 49152. Waiting connection...
+16:48:51 ::Client 127.0.0.1 connected!
+16:48:53 ::Start broadcasting screen to 127.0.0.1 client
+16:49:02 ::Client 192.168.0.109 connected!
+16:49:04 ::Start broadcasting screen to 192.168.0.109 client
+16:49:11 ::Stop broadcasting screen to 127.0.0.1 client
+16:49:26 ::Server started! Port number 49152. Waiting connection...
+16:49:36 ::Client 127.0.0.1 connected!
+16:49:37 ::Start broadcasting screen to 127.0.0.1 client
+16:49:46 ::Client 192.168.0.109 connected!
+16:49:47 ::Start broadcasting screen to 192.168.0.109 client
+16:51:54 ::Server started! Port number 49152. Waiting connection...
+16:52:04 ::Client 127.0.0.1 connected!
+16:52:05 ::Start broadcasting screen to 127.0.0.1 client
+16:52:15 ::Client 192.168.0.109 connected!
+16:52:15 ::Start broadcasting screen to 192.168.0.109 client
+16:52:21 ::Stop broadcasting screen to 127.0.0.1 client
+16:55:43 ::Server started! Port number 49152. Waiting connection...
+16:55:50 ::Client 127.0.0.1 connected!
+16:55:51 ::Start broadcasting screen to 127.0.0.1 client
+16:56:04 ::Client 192.168.0.109 connected!
+16:56:06 ::Start broadcasting screen to 192.168.0.109 client
+16:56:12 ::Stop broadcasting screen to 127.0.0.1 client
+16:57:09 ::Server started! Port number 49152. Waiting connection...
+16:57:19 ::Client 192.168.0.109 connected!
+16:57:25 ::Client 127.0.0.1 connected!
+16:57:28 ::Start broadcasting screen to 127.0.0.1 client
+16:57:36 ::Start broadcasting screen to 192.168.0.109 client
+16:57:50 ::Stop broadcasting screen to 127.0.0.1 client
+17:03:58 ::Server started! Port number 49152. Waiting connection...
+17:04:15 ::Client 127.0.0.1 connected!
+17:04:15 ::Start broadcasting screen to 127.0.0.1 client
+17:05:01 ::Client 192.168.0.109 connected!
+17:05:11 ::Start broadcasting screen to 192.168.0.109 client
+17:05:54 ::Stop broadcasting screen to 192.168.0.109 client
+17:08:04 ::Server started! Port number 49152. Waiting connection...
+17:08:08 ::Client 127.0.0.1 connected!
+17:08:10 ::Start broadcasting screen to 127.0.0.1 client
+17:08:20 ::Client 192.168.0.109 connected!
+17:08:22 ::Start broadcasting screen to 192.168.0.109 client
+17:08:28 ::Stop broadcasting screen to 127.0.0.1 client
+17:08:32 ::Stop broadcasting screen to 192.168.0.109 client
+17:10:43 ::Server started! Port number 49152. Waiting connection...
+17:10:51 ::Client 127.0.0.1 connected!
+17:10:53 ::Start broadcasting screen to 127.0.0.1 client
+17:11:03 ::Client 192.168.0.109 connected!
+17:11:05 ::Start broadcasting screen to 192.168.0.109 client
+17:11:10 ::Stop broadcasting screen to 127.0.0.1 client
+17:11:13 ::Stop broadcasting screen to 192.168.0.109 client
+17:12:25 ::Server started! Port number 49152. Waiting connection...
+17:12:28 ::Client 127.0.0.1 connected!
+17:12:28 ::Start broadcasting screen to 127.0.0.1 client
+17:12:38 ::Client 192.168.0.109 connected!
+17:12:39 ::Start broadcasting screen to 192.168.0.109 client
+17:12:44 ::Stop broadcasting screen to 127.0.0.1 client
+17:12:47 ::Stop broadcasting screen to 192.168.0.109 client
+17:12:49 ::Start broadcasting screen to 192.168.0.109 client
+17:12:53 ::Start broadcasting screen to 127.0.0.1 client
+17:13:21 ::Server started! Port number 49152. Waiting connection...
+17:13:28 ::Client 127.0.0.1 connected!
+17:13:29 ::Start broadcasting screen to 127.0.0.1 client
+17:13:36 ::Client 192.168.0.109 connected!
+17:13:37 ::Start broadcasting screen to 192.168.0.109 client
+17:13:41 ::Stop broadcasting screen to 127.0.0.1 client
+17:13:44 ::Stop broadcasting screen to 192.168.0.109 client
+17:13:46 ::Start broadcasting screen to 127.0.0.1 client
+17:13:49 ::Start broadcasting screen to 192.168.0.109 client
+17:13:57 ::Stop broadcasting screen to 192.168.0.109 client
+17:14:00 ::Stop broadcasting screen to 127.0.0.1 client
+18:02:01 ::Server started! Port number 49152. Waiting connection...
+18:02:13 ::Client 192.168.0.107 connected!
+11:53:57 ::Server started! Port number 49152. Waiting connection...
+11:54:23 ::Client 127.0.0.1 connected!
+12:16:29 ::Server started! Port number 49152. Waiting connection...
+12:40:37 ::Server started! Port number 49152. Waiting connection...
+12:40:43 ::Client 127.0.0.1 connected!
+18:50:05 ::Server started! Port number 49152. Waiting connection...
+18:50:50 ::Client 127.0.0.1 connected!
+18:51:54 ::File (C:\Новая папка\__usada_pekora_hololive_drawn_by_gawain_artist__7100aada9c4882d566ce0b54899ae543.jpg) doesn't exist. Client: 127.0.0.1
+21:31:12 ::Server started! Port number 49152. Waiting connection...
+21:31:19 ::Client 127.0.0.1 connected!
+21:32:52 ::Server started! Port number 49152. Waiting connection...
+21:32:56 ::Client 127.0.0.1 connected!
+21:33:06 ::Server started! Port number 49152. Waiting connection...
+21:33:13 ::Client 127.0.0.1 connected!
+21:33:23 ::Deleting file (C:\Новая папка\__chloe_von_einzbern_fate_and_1_more_drawn_by_kaamin_mariarose753__1b555dc9d38523667bff408e706d0e05.jpg) Client: 127.0.0.1
+21:33:35 ::Reciving file from 127.0.0.1 client.
+21:33:35 ::File will be write to directory.127.0.0.1 client.
+21:34:28 ::Server started! Port number 49152. Waiting connection...
+21:34:45 ::Client 127.0.0.1 connected!
+21:35:01 ::Deleting file (C:\Новая папка\__usada_pekora_hololive_drawn_by_gawain_artist__7100aada9c4882d566ce0b54899ae543.jpg) Client: 127.0.0.1
+21:35:33 ::Reciving file from 127.0.0.1 client.
+21:35:33 ::File will be write to directory.127.0.0.1 client.
+21:46:49 ::Server started! Port number 49152. Waiting connection...
+21:47:03 ::Client 127.0.0.1 connected!
+21:47:24 ::Reciving file from 127.0.0.1 client.
+21:47:24 ::File will be write to directory.127.0.0.1 client.
+22:29:00 ::Server started! Port number 49152. Waiting connection...
+22:29:06 ::Client 127.0.0.1 connected!
+22:29:26 ::Server started! Port number 49152. Waiting connection...
+22:34:46 ::Server started! Port number 49152. Waiting connection...
+22:38:21 ::Server started! Port number 49152. Waiting connection...
+22:38:25 ::Client 127.0.0.1 connected!
+22:38:42 ::Launch file (C:\Новая папка\__usada_pekora_hololive_drawn_by_kiriko_araragikoyomi__00ff3080fc0431b8342186c08a675463.png) Client: 127.0.0.1
+22:57:38 ::Server started! Port number 49152. Waiting connection...
+22:57:43 ::Client 127.0.0.1 connected!
+23:04:12 ::Server started! Port number 49152. Waiting connection...
+23:11:54 ::Server started! Port number 49152. Waiting connection...
+23:12:00 ::Client 127.0.0.1 connected!
+23:12:31 ::Reciving file which will be written in dir :D:\, size: 627634 from 127.0.0.1 client
+23:12:31 ::Creating file (D:\\art-Fantasy-Tiago-Sousa-6043407.jpeg) from 127.0.0.1 client
+23:14:09 ::Server started! Port number 49152. Waiting connection...
+23:14:18 ::Client 127.0.0.1 connected!
+23:14:31 ::Reciving file which will be written in dir :D:\, size: 627634 from 127.0.0.1 client
+23:14:31 ::Creating file (D:\\art-Fantasy-Tiago-Sousa-6043407.jpeg) from 127.0.0.1 client
+23:14:42 ::Launch file (D:\art-Fantasy-Tiago-Sousa-6043407.jpeg) Client: 127.0.0.1
+23:15:01 ::Send file (C:\Новая папка\__reisen_udongein_inaba_touhou_drawn_by_diving_penguin__bcef30cbf884fc2a76a357dd44b44bd5.jpg) to 127.0.0.1 client
+23:15:36 ::Send file (C:\Новая папка\fc95b5d47b506bfb78716de09aa466c1.jpg) to 127.0.0.1 client
+23:15:56 ::Server started! Port number 49152. Waiting connection...
+23:20:20 ::Server started! Port number 49152. Waiting connection...
+23:20:38 ::Client 127.0.0.1 connected!
+23:21:22 ::Reciving file which will be written in dir :D:\, size: 2634792 from 127.0.0.1 client
+23:21:24 ::Creating file (D:\\__reisen_udongein_inaba_touhou_drawn_by_diving_penguin__bcef30cbf884fc2a76a357dd44b44bd5.jpg) from 127.0.0.1 client
+23:22:09 ::Launch file (D:\__reisen_udongein_inaba_touhou_drawn_by_diving_penguin__bcef30cbf884fc2a76a357dd44b44bd5.jpg) Client: 127.0.0.1
+23:22:24 ::Send file (C:\Новая папка\saria-(arknights)-Arknights-Игры-Fixro2n-6096666.png) to 127.0.0.1 client
+23:31:08 ::Server started! Port number 49152. Waiting connection...
+23:31:11 ::Client 127.0.0.1 connected!
+23:31:24 ::Send file (C:\Новая папка\fc95b5d47b506bfb78716de09aa466c1.jpg) to 127.0.0.1 client
+23:31:35 ::Reciving file which will be written in dir :, size: 0 from 127.0.0.1 client
+23:32:59 ::Server started! Port number 49152. Waiting connection...
+23:33:04 ::Client 127.0.0.1 connected!
+23:33:14 ::Send file (C:\Новая папка\__reisen_udongein_inaba_touhou_drawn_by_diving_penguin__bcef30cbf884fc2a76a357dd44b44bd5.jpg) to 127.0.0.1 client
+23:33:39 ::Reciving file which will be written in dir :D:\, size: 1408780 from 127.0.0.1 client
+23:33:39 ::Creating file (D:\\Eai502aVAAAGEZR.jpg) from 127.0.0.1 client
+23:33:45 ::Launch file (D:\Eai502aVAAAGEZR.jpg) Client: 127.0.0.1
+15:31:10 ::Server started! Port number 49152. Waiting connection...
+15:31:17 ::Client 127.0.0.1 connected!
+15:31:26 ::Launch file (C:\Новая папка\__reisen_udongein_inaba_touhou_drawn_by_diving_penguin__bcef30cbf884fc2a76a357dd44b44bd5.jpg) Client: 127.0.0.1
+15:31:30 ::Reciving file which will be written in dir :, size: 0 from 127.0.0.1 client
+16:03:18 ::Server started! Port number 49152. Waiting connection...
+16:03:59 ::Client 192.168.0.107 connected!
+16:04:11 ::Delete file (D:\Общее\[anti-raws]Kill la Kill creditless ED1[BDRemux].mkv) failed. Client: 192.168.0.107
+16:04:48 ::Delete file (D:\Общее\[anti-raws]Kill la Kill creditless ED1[BDRemux].mkv) failed. Client: 192.168.0.107
+16:05:11 ::Delete file (D:\Общее\[anti-raws]Kill la Kill creditless ED1[BDRemux].mkv) failed. Client: 192.168.0.107
+16:05:25 ::Reciving file which will be written in dir :, size: 0 from 192.168.0.107 client
+16:05:31 ::Server started! Port number 49152. Waiting connection...
+16:06:01 ::Client 127.0.0.1 connected!
+16:06:12 ::Delete file (D:\Общее\[anti-raws]Kill la Kill creditless ED1[BDRemux].mkv) failed. Client: 127.0.0.1
+19:23:28 ::Server started! Port number 49152. Waiting connection...
+11:36:51 ::Server started! Port number 49152. Waiting connection...
+11:37:05 ::Client 127.0.0.1 connected!
+11:37:12 ::Start broadcasting screen to 127.0.0.1 client
+11:37:23 ::Stop broadcasting screen to 127.0.0.1 client
+11:37:25 ::Start broadcasting screen to 127.0.0.1 client
+11:37:52 ::Stop broadcasting screen to 127.0.0.1 client
+11:37:54 ::Start broadcasting screen to 127.0.0.1 client
+11:37:57 ::Stop broadcasting screen to 127.0.0.1 client
+14:28:13 ::Server started! Port number 49152. Waiting connection...
+14:28:21 ::Server started! Port number 49152. Waiting connection...
+14:29:13 ::Server started! Port number 49152. Waiting connection...
+14:29:29 ::Client 127.0.0.1 connected!
+14:29:31 ::Start broadcasting screen to 127.0.0.1 client
+14:34:55 ::Server started! Port number 49152. Waiting connection...
+14:35:43 ::Client 192.168.0.109 connected!
+14:35:48 ::Start broadcasting screen to 192.168.0.109 client
+14:36:43 ::Client 127.0.0.1 connected!
+14:36:46 ::Start broadcasting screen to 127.0.0.1 client
+14:36:59 ::Stop broadcasting screen to 192.168.0.109 client
+14:37:01 ::Start broadcasting screen to 192.168.0.109 client
+15:40:15 ::Server started! Port number 49152. Waiting connection...
+15:40:21 ::Client 127.0.0.1 connected!
+15:42:11 ::Server started! Port number 49152. Waiting connection...
+15:42:18 ::Client 127.0.0.1 connected!
+15:52:23 ::Reciving file which will be written in dir :, size: 0 from 127.0.0.1 client
+15:53:10 ::Server started! Port number 49152. Waiting connection...
+15:53:15 ::Client 127.0.0.1 connected!
+16:33:33 ::Reciving file which will be written in dir :, size: 0 from 127.0.0.1 client
+17:04:56 ::Server started! Port number 49152. Waiting connection...
+17:05:30 ::Client 192.168.0.120 connected!
+17:05:49 ::Start broadcasting screen to 192.168.0.120 client
+17:06:12 ::Stop broadcasting screen to 192.168.0.120 client
+17:06:13 ::Start broadcasting screen to 192.168.0.120 client
+17:06:21 ::Stop broadcasting screen to 192.168.0.120 client
+17:06:56 ::Start broadcasting screen to 192.168.0.120 client
+17:07:19 ::Reciving file which will be written in dir :, size: 0 from 192.168.0.120 client
+19:46:46 ::Server started! Port number 49152. Waiting connection...
+19:46:51 ::Client 127.0.0.1 connected!
+19:46:56 ::Start broadcasting screen to 127.0.0.1 client
+19:47:15 ::Stop broadcasting screen to 127.0.0.1 client
+19:47:16 ::Start broadcasting screen to 127.0.0.1 client
+19:47:25 ::Stop broadcasting screen to 127.0.0.1 client
+19:47:26 ::Start broadcasting screen to 127.0.0.1 client
+19:47:30 ::Stop broadcasting screen to 127.0.0.1 client
+19:47:31 ::Start broadcasting screen to 127.0.0.1 client
+19:47:32 ::Stop broadcasting screen to 127.0.0.1 client
+19:47:55 ::Start broadcasting screen to 127.0.0.1 client
+19:47:57 ::Stop broadcasting screen to 127.0.0.1 client
+19:47:58 ::Reciving file which will be written in dir :, size: 0 from 127.0.0.1 client
+20:16:11 ::Server started! Port number 49152. Waiting connection...
+20:16:18 ::Client 127.0.0.1 connected!
+20:16:21 ::Start broadcasting screen to 127.0.0.1 client
+20:16:23 ::Stop broadcasting screen to 127.0.0.1 client
+22:08:55 ::Server started! Port number 49152. Waiting connection...
+22:09:01 ::Client 127.0.0.1 connected!
+22:09:57 ::Reciving file which will be written in dir :, size: 0 from 127.0.0.1 client
+22:09:57 ::Reciving file which will be written in dir :, size: 0 from 127.0.0.1 client
+22:09:57 ::Reciving file which will be written in dir :, size: 0 from 127.0.0.1 client
+22:10:01 ::Server started! Port number 49152. Waiting connection...
+22:10:05 ::Client 127.0.0.1 connected!
+22:10:09 ::Start broadcasting screen to 127.0.0.1 client
+22:10:11 ::Stop broadcasting screen to 127.0.0.1 client
+22:10:12 ::Start broadcasting screen to 127.0.0.1 client
+22:10:15 ::Stop broadcasting screen to 127.0.0.1 client
+22:10:16 ::Start broadcasting screen to 127.0.0.1 client
+22:10:19 ::Stop broadcasting screen to 127.0.0.1 client
+22:10:20 ::Start broadcasting screen to 127.0.0.1 client
+22:10:22 ::Stop broadcasting screen to 127.0.0.1 client
+22:10:22 ::Start broadcasting screen to 127.0.0.1 client
+22:10:24 ::Stop broadcasting screen to 127.0.0.1 client
+22:10:44 ::Reciving file which will be written in dir :, size: 0 from 127.0.0.1 client
+22:10:44 ::Reciving file which will be written in dir :, size: 0 from 127.0.0.1 client
+22:10:44 ::Reciving file which will be written in dir :, size: 0 from 127.0.0.1 client
+22:10:44 ::Reciving file which will be written in dir :, size: 0 from 127.0.0.1 client
+22:10:48 ::Server started! Port number 49152. Waiting connection...
+22:10:58 ::Client 127.0.0.1 connected!
+22:11:37 ::Reciving file which will be written in dir :, size: 0 from 127.0.0.1 client
+22:11:37 ::Reciving file which will be written in dir :, size: 0 from 127.0.0.1 client
+22:11:37 ::Reciving file which will be written in dir :, size: 0 from 127.0.0.1 client
+22:11:39 ::Server started! Port number 49152. Waiting connection...
+22:11:42 ::Client 127.0.0.1 connected!
+22:12:31 ::Reciving file which will be written in dir :, size: 0 from 127.0.0.1 client
+22:12:31 ::Reciving file which will be written in dir :, size: 0 from 127.0.0.1 client
+22:12:31 ::Reciving file which will be written in dir :, size: 0 from 127.0.0.1 client
+22:12:51 ::Server started! Port number 49152. Waiting connection...
+22:12:56 ::Client 127.0.0.1 connected!
+22:13:24 ::Server started! Port number 49152. Waiting connection...
+22:13:29 ::Client 127.0.0.1 connected!
+22:14:05 ::Server started! Port number 49152. Waiting connection...
+22:14:23 ::Client 127.0.0.1 connected!
+22:15:06 ::Reciving file which will be written in dir :, size: 0 from 127.0.0.1 client
+22:15:06 ::Reciving file which will be written in dir :, size: 0 from 127.0.0.1 client
+22:15:06 ::Reciving file which will be written in dir :, size: 0 from 127.0.0.1 client
+10:53:38 ::Server started! Port number 49152. Waiting connection...
+10:54:49 ::Server started! Port number 49152. Waiting connection...
+10:54:56 ::Client 127.0.0.1 connected!
+10:55:21 ::Start broadcasting screen to 127.0.0.1 client
+10:55:31 ::Stop broadcasting screen to 127.0.0.1 client
+10:55:35 ::Start broadcasting screen to 127.0.0.1 client
+10:55:39 ::Stop broadcasting screen to 127.0.0.1 client
+10:55:42 ::Start broadcasting screen to 127.0.0.1 client
+10:55:46 ::Stop broadcasting screen to 127.0.0.1 client
+10:55:49 ::Start broadcasting screen to 127.0.0.1 client
+10:55:52 ::Stop broadcasting screen to 127.0.0.1 client
+10:55:55 ::Start broadcasting screen to 127.0.0.1 client
+10:55:57 ::Stop broadcasting screen to 127.0.0.1 client
+10:55:59 ::Start broadcasting screen to 127.0.0.1 client
+10:56:02 ::Stop broadcasting screen to 127.0.0.1 client
+10:56:04 ::Start broadcasting screen to 127.0.0.1 client
+10:56:09 ::Stop broadcasting screen to 127.0.0.1 client
+10:56:12 ::Start broadcasting screen to 127.0.0.1 client
+10:56:15 ::Stop broadcasting screen to 127.0.0.1 client
+10:56:16 ::Start broadcasting screen to 127.0.0.1 client
+10:56:18 ::Stop broadcasting screen to 127.0.0.1 client
+10:58:06 ::Reciving file which will be written in dir :, size: 0 from 127.0.0.1 client
+23:08:45 ::Server started! Port number 49152. Waiting connection...
+23:09:44 ::Client 192.168.0.109 connected!
+23:09:51 ::Start broadcasting screen to 192.168.0.109 client
+23:12:05 ::Server started! Port number 49152. Waiting connection...
+23:12:18 ::Client 192.168.0.109 connected!
+23:12:26 ::Start broadcasting screen to 192.168.0.109 client
+23:12:45 ::Server started! Port number 49152. Waiting connection...
+23:13:05 ::Client 192.168.0.109 connected!
+23:13:07 ::Start broadcasting screen to 192.168.0.109 client
+23:13:30 ::Stop broadcasting screen to 192.168.0.109 client
+23:15:06 ::Server started! Port number 49152. Waiting connection...
+23:15:19 ::Client 192.168.0.109 connected!
+23:15:22 ::Start broadcasting screen to 192.168.0.109 client
+23:15:30 ::Stop broadcasting screen to 192.168.0.109 client
+23:15:32 ::Start broadcasting screen to 192.168.0.109 client
+23:15:35 ::Stop broadcasting screen to 192.168.0.109 client
+23:15:39 ::Server started! Port number 49152. Waiting connection...
+23:15:50 ::Client 192.168.0.109 connected!
+23:15:53 ::Start broadcasting screen to 192.168.0.109 client
+23:16:07 ::Server started! Port number 49152. Waiting connection...
+23:16:14 ::Client 192.168.0.109 connected!
+23:16:17 ::Start broadcasting screen to 192.168.0.109 client
+23:16:26 ::Server started! Port number 49152. Waiting connection...
+23:16:33 ::Client 192.168.0.109 connected!
+23:16:36 ::Start broadcasting screen to 192.168.0.109 client
+23:17:21 ::Stop broadcasting screen to 192.168.0.109 client
+23:17:40 ::Server started! Port number 49152. Waiting connection...
+23:17:49 ::Client 192.168.0.109 connected!
+23:17:53 ::Start broadcasting screen to 192.168.0.109 client
+23:20:35 ::Server started! Port number 49152. Waiting connection...
+23:20:45 ::Client 192.168.0.109 connected!
+23:20:48 ::Start broadcasting screen to 192.168.0.109 client
+23:21:13 ::Stop broadcasting screen to 192.168.0.109 client
+23:21:15 ::Start broadcasting screen to 192.168.0.109 client
+23:21:21 ::Server started! Port number 49152. Waiting connection...
+23:21:26 ::Client 192.168.0.109 connected!
+23:21:28 ::Start broadcasting screen to 192.168.0.109 client
+23:21:39 ::Server started! Port number 49152. Waiting connection...
+23:21:44 ::Client 192.168.0.109 connected!
+23:21:50 ::Start broadcasting screen to 192.168.0.109 client
+23:22:00 ::Server started! Port number 49152. Waiting connection...
+23:22:06 ::Client 192.168.0.109 connected!
+23:22:11 ::Start broadcasting screen to 192.168.0.109 client
+23:22:24 ::Server started! Port number 49152. Waiting connection...
+23:22:38 ::Client 192.168.0.109 connected!
+23:22:40 ::Start broadcasting screen to 192.168.0.109 client
+23:22:48 ::Server started! Port number 49152. Waiting connection...
+23:22:55 ::Client 192.168.0.109 connected!
+23:22:58 ::Start broadcasting screen to 192.168.0.109 client
+23:23:35 ::Server started! Port number 49152. Waiting connection...
+23:23:41 ::Client 192.168.0.109 connected!
+23:23:46 ::Start broadcasting screen to 192.168.0.109 client
+23:24:16 ::Server started! Port number 49152. Waiting connection...
+23:24:25 ::Client 127.0.0.1 connected!
+23:24:29 ::Start broadcasting screen to 127.0.0.1 client
+23:25:13 ::Server started! Port number 49152. Waiting connection...
+23:25:20 ::Client 127.0.0.1 connected!
+23:25:24 ::Start broadcasting screen to 127.0.0.1 client
+23:25:45 ::Server started! Port number 49152. Waiting connection...
+23:25:57 ::Client 127.0.0.1 connected!
+23:26:01 ::Start broadcasting screen to 127.0.0.1 client
+23:27:20 ::Server started! Port number 49152. Waiting connection...
+23:27:32 ::Client 192.168.0.109 connected!
+23:27:35 ::Start broadcasting screen to 192.168.0.109 client
+23:35:54 ::Server started! Port number 49152. Waiting connection...
+23:36:03 ::Client 192.168.0.109 connected!
+23:36:07 ::Start broadcasting screen to 192.168.0.109 client
+23:36:18 ::Server started! Port number 49152. Waiting connection...
+23:36:26 ::Client 192.168.0.109 connected!
+23:36:29 ::Start broadcasting screen to 192.168.0.109 client
+23:37:07 ::Server started! Port number 49152. Waiting connection...
+23:37:18 ::Client 192.168.0.109 connected!
+23:37:22 ::Start broadcasting screen to 192.168.0.109 client
+23:37:45 ::Server started! Port number 49152. Waiting connection...
+23:37:53 ::Client 192.168.0.109 connected!
+23:37:57 ::Start broadcasting screen to 192.168.0.109 client
+23:38:37 ::Server started! Port number 49152. Waiting connection...
+23:38:46 ::Client 192.168.0.109 connected!
+23:38:49 ::Start broadcasting screen to 192.168.0.109 client
+23:40:08 ::Server started! Port number 49152. Waiting connection...
+23:40:16 ::Client 192.168.0.109 connected!
+23:40:19 ::Start broadcasting screen to 192.168.0.109 client
+23:41:50 ::Server started! Port number 49152. Waiting connection...
+23:41:58 ::Client 192.168.0.109 connected!
+23:42:01 ::Start broadcasting screen to 192.168.0.109 client
+23:42:08 ::Server started! Port number 49152. Waiting connection...
+23:42:15 ::Client 192.168.0.109 connected!
+23:42:19 ::Start broadcasting screen to 192.168.0.109 client
+23:46:48 ::Server started! Port number 49152. Waiting connection...
+23:46:56 ::Client 192.168.0.109 connected!
+23:46:59 ::Start broadcasting screen to 192.168.0.109 client
+23:47:04 ::Server started! Port number 49152. Waiting connection...
+23:47:10 ::Client 192.168.0.109 connected!
+23:47:13 ::Start broadcasting screen to 192.168.0.109 client
+23:48:20 ::Server started! Port number 49152. Waiting connection...
+23:48:31 ::Client 192.168.0.109 connected!
+23:48:35 ::Start broadcasting screen to 192.168.0.109 client
+23:48:42 ::Server started! Port number 49152. Waiting connection...
+23:48:49 ::Client 192.168.0.109 connected!
+23:48:58 ::Start broadcasting screen to 192.168.0.109 client
+23:56:20 ::Server started! Port number 49152. Waiting connection...
+23:56:29 ::Client 192.168.0.109 connected!
+23:56:32 ::Start broadcasting screen to 192.168.0.109 client
+0:04:19 ::Server started! Port number 49152. Waiting connection...
+0:04:33 ::Client 192.168.0.109 connected!
+0:04:38 ::Start broadcasting screen to 192.168.0.109 client
+0:04:45 ::Server started! Port number 49152. Waiting connection...
+0:04:56 ::Client 192.168.0.109 connected!
+0:04:59 ::Start broadcasting screen to 192.168.0.109 client
+0:05:06 ::Server started! Port number 49152. Waiting connection...
+0:05:11 ::Client 192.168.0.109 connected!
+0:05:15 ::Start broadcasting screen to 192.168.0.109 client
+0:06:33 ::Server started! Port number 49152. Waiting connection...
+0:06:41 ::Client 192.168.0.109 connected!
+0:06:45 ::Start broadcasting screen to 192.168.0.109 client
+0:07:47 ::Server started! Port number 49152. Waiting connection...
+0:07:55 ::Client 192.168.0.109 connected!
+0:07:59 ::Start broadcasting screen to 192.168.0.109 client
+0:08:40 ::Server started! Port number 49152. Waiting connection...
+0:08:47 ::Client 192.168.0.109 connected!
+0:08:52 ::Start broadcasting screen to 192.168.0.109 client
+0:09:54 ::Server started! Port number 49152. Waiting connection...
+0:10:02 ::Client 192.168.0.109 connected!
+0:10:07 ::Start broadcasting screen to 192.168.0.109 client
+0:10:30 ::Server started! Port number 49152. Waiting connection...
+0:10:39 ::Client 192.168.0.109 connected!
+0:10:43 ::Start broadcasting screen to 192.168.0.109 client
+0:11:02 ::Server started! Port number 49152. Waiting connection...
+0:11:11 ::Client 192.168.0.109 connected!
+0:11:15 ::Start broadcasting screen to 192.168.0.109 client
+0:12:19 ::Server started! Port number 49152. Waiting connection...
+0:12:28 ::Client 192.168.0.109 connected!
+0:12:31 ::Start broadcasting screen to 192.168.0.109 client
+0:12:44 ::Server started! Port number 49152. Waiting connection...
+0:12:54 ::Client 192.168.0.109 connected!
+0:12:59 ::Start broadcasting screen to 192.168.0.109 client
+0:13:17 ::Server started! Port number 49152. Waiting connection...
+0:13:23 ::Client 192.168.0.109 connected!
+0:13:28 ::Start broadcasting screen to 192.168.0.109 client
+0:14:04 ::Stop broadcasting screen to 192.168.0.109 client
+0:24:36 ::Server started! Port number 49152. Waiting connection...
+0:24:45 ::Client 192.168.0.109 connected!
+0:24:49 ::Start broadcasting screen to 192.168.0.109 client
+0:24:55 ::Server started! Port number 49152. Waiting connection...
+0:25:03 ::Client 192.168.0.109 connected!
+0:25:05 ::Start broadcasting screen to 192.168.0.109 client
+0:26:03 ::Server started! Port number 49152. Waiting connection...
+0:26:12 ::Client 192.168.0.109 connected!
+0:26:15 ::Start broadcasting screen to 192.168.0.109 client
+0:27:31 ::Server started! Port number 49152. Waiting connection...
+0:27:37 ::Client 192.168.0.109 connected!
+0:27:39 ::Start broadcasting screen to 192.168.0.109 client
+0:27:56 ::Stop broadcasting screen to 192.168.0.109 client
+0:28:10 ::Server started! Port number 49152. Waiting connection...
+0:28:32 ::Server started! Port number 49152. Waiting connection...
+0:28:42 ::Client 192.168.0.109 connected!
+0:28:46 ::Start broadcasting screen to 192.168.0.109 client
+11:52:33 ::Server started! Port number 49152. Waiting connection...
+11:53:22 ::Client 127.0.0.1 connected!
+11:54:28 ::Server started! Port number 49152. Waiting connection...
+11:54:37 ::Client 127.0.0.1 connected!
+11:54:40 ::Start broadcasting screen to 127.0.0.1 client

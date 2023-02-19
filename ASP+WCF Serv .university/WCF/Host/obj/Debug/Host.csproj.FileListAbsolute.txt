@@ -1,0 +1,10 @@
+D:\VisualStudio\WCF\Host\obj\Debug\Host.csprojAssemblyReference.cache
+D:\VisualStudio\WCF\Host\bin\Debug\Host.exe
+D:\VisualStudio\WCF\Host\bin\Debug\Host.pdb
+D:\VisualStudio\WCF\Host\bin\Debug\Kursach_Uchet_Internet_Uslug.dll
+D:\VisualStudio\WCF\Host\bin\Debug\Kursach_Uchet_Internet_Uslug.pdb
+D:\VisualStudio\WCF\Host\bin\Debug\Kursach_Uchet_Internet_Uslug.dll.config
+D:\VisualStudio\WCF\Host\obj\Debug\Host.csproj.CopyComplete
+D:\VisualStudio\WCF\Host\obj\Debug\Host.exe
+D:\VisualStudio\WCF\Host\obj\Debug\Host.pdb
+D:\VisualStudio\WCF\Host\bin\Debug\Host.exe.config

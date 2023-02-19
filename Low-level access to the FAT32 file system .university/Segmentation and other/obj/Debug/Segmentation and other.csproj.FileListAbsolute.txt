@@ -1,0 +1,39 @@
+I:\VisualStudio\Segmentation and other\Segmentation and other\bin\Debug\Segmentation and other.exe.config
+I:\VisualStudio\Segmentation and other\Segmentation and other\bin\Debug\Segmentation and other.exe
+I:\VisualStudio\Segmentation and other\Segmentation and other\bin\Debug\Segmentation and other.pdb
+I:\VisualStudio\Segmentation and other\Segmentation and other\bin\Debug\Core.dll
+I:\VisualStudio\Segmentation and other\Segmentation and other\bin\Debug\Core.pdb
+I:\VisualStudio\Segmentation and other\Segmentation and other\obj\Debug\Segmentation and other.csprojAssemblyReference.cache
+I:\VisualStudio\Segmentation and other\Segmentation and other\obj\Debug\Segmentation_and_other.Form1.resources
+I:\VisualStudio\Segmentation and other\Segmentation and other\obj\Debug\Segmentation_and_other.Properties.Resources.resources
+I:\VisualStudio\Segmentation and other\Segmentation and other\obj\Debug\Segmentation and other.csproj.GenerateResource.cache
+I:\VisualStudio\Segmentation and other\Segmentation and other\obj\Debug\Segmentation and other.csproj.CoreCompileInputs.cache
+I:\VisualStudio\Segmentation and other\Segmentation and other\obj\Debug\Segmentation and other.csproj.CopyComplete
+I:\VisualStudio\Segmentation and other\Segmentation and other\obj\Debug\Segmentation and other.exe
+I:\VisualStudio\Segmentation and other\Segmentation and other\obj\Debug\Segmentation and other.pdb
+J:\VisualStudio\Segmentation and other\Segmentation and other\bin\Debug\Segmentation and other.exe.config
+J:\VisualStudio\Segmentation and other\Segmentation and other\bin\Debug\Segmentation and other.exe
+J:\VisualStudio\Segmentation and other\Segmentation and other\bin\Debug\Segmentation and other.pdb
+J:\VisualStudio\Segmentation and other\Segmentation and other\bin\Debug\Core.dll
+J:\VisualStudio\Segmentation and other\Segmentation and other\bin\Debug\Core.pdb
+J:\VisualStudio\Segmentation and other\Segmentation and other\obj\Debug\Segmentation and other.csprojAssemblyReference.cache
+J:\VisualStudio\Segmentation and other\Segmentation and other\obj\Debug\Segmentation_and_other.Form1.resources
+J:\VisualStudio\Segmentation and other\Segmentation and other\obj\Debug\Segmentation_and_other.Properties.Resources.resources
+J:\VisualStudio\Segmentation and other\Segmentation and other\obj\Debug\Segmentation and other.csproj.GenerateResource.cache
+J:\VisualStudio\Segmentation and other\Segmentation and other\obj\Debug\Segmentation and other.csproj.CoreCompileInputs.cache
+J:\VisualStudio\Segmentation and other\Segmentation and other\obj\Debug\Segmentation and other.csproj.CopyComplete
+J:\VisualStudio\Segmentation and other\Segmentation and other\obj\Debug\Segmentation and other.exe
+J:\VisualStudio\Segmentation and other\Segmentation and other\obj\Debug\Segmentation and other.pdb
+D:\Programming\VisualStudio\Cтарые проекты\Segmentation and other\Segmentation and other\bin\Debug\Segmentation and other.exe.config
+D:\Programming\VisualStudio\Cтарые проекты\Segmentation and other\Segmentation and other\bin\Debug\Segmentation and other.exe
+D:\Programming\VisualStudio\Cтарые проекты\Segmentation and other\Segmentation and other\bin\Debug\Segmentation and other.pdb
+D:\Programming\VisualStudio\Cтарые проекты\Segmentation and other\Segmentation and other\bin\Debug\Core.dll
+D:\Programming\VisualStudio\Cтарые проекты\Segmentation and other\Segmentation and other\bin\Debug\Core.pdb
+D:\Programming\VisualStudio\Cтарые проекты\Segmentation and other\Segmentation and other\obj\Debug\Segmentation and other.csprojAssemblyReference.cache
+D:\Programming\VisualStudio\Cтарые проекты\Segmentation and other\Segmentation and other\obj\Debug\Segmentation_and_other.Form1.resources
+D:\Programming\VisualStudio\Cтарые проекты\Segmentation and other\Segmentation and other\obj\Debug\Segmentation_and_other.Properties.Resources.resources
+D:\Programming\VisualStudio\Cтарые проекты\Segmentation and other\Segmentation and other\obj\Debug\Segmentation and other.csproj.GenerateResource.cache
+D:\Programming\VisualStudio\Cтарые проекты\Segmentation and other\Segmentation and other\obj\Debug\Segmentation and other.csproj.CoreCompileInputs.cache
+D:\Programming\VisualStudio\Cтарые проекты\Segmentation and other\Segmentation and other\obj\Debug\Segmentation and other.csproj.CopyComplete
+D:\Programming\VisualStudio\Cтарые проекты\Segmentation and other\Segmentation and other\obj\Debug\Segmentation and other.exe
+D:\Programming\VisualStudio\Cтарые проекты\Segmentation and other\Segmentation and other\obj\Debug\Segmentation and other.pdb

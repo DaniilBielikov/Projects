@@ -1,0 +1,13 @@
+I:\VisualStudio\Segmentation and other\Segmentation and other\bin\Release\Segmentation and other.exe.config
+I:\VisualStudio\Segmentation and other\Segmentation and other\bin\Release\Segmentation and other.exe
+I:\VisualStudio\Segmentation and other\Segmentation and other\bin\Release\Segmentation and other.pdb
+I:\VisualStudio\Segmentation and other\Segmentation and other\bin\Release\Core.dll
+I:\VisualStudio\Segmentation and other\Segmentation and other\bin\Release\Core.pdb
+I:\VisualStudio\Segmentation and other\Segmentation and other\obj\Release\Segmentation and other.csprojAssemblyReference.cache
+I:\VisualStudio\Segmentation and other\Segmentation and other\obj\Release\Segmentation_and_other.Form1.resources
+I:\VisualStudio\Segmentation and other\Segmentation and other\obj\Release\Segmentation_and_other.Properties.Resources.resources
+I:\VisualStudio\Segmentation and other\Segmentation and other\obj\Release\Segmentation and other.csproj.GenerateResource.cache
+I:\VisualStudio\Segmentation and other\Segmentation and other\obj\Release\Segmentation and other.csproj.CoreCompileInputs.cache
+I:\VisualStudio\Segmentation and other\Segmentation and other\obj\Release\Segmentation and other.csproj.CopyComplete
+I:\VisualStudio\Segmentation and other\Segmentation and other\obj\Release\Segmentation and other.exe
+I:\VisualStudio\Segmentation and other\Segmentation and other\obj\Release\Segmentation and other.pdb

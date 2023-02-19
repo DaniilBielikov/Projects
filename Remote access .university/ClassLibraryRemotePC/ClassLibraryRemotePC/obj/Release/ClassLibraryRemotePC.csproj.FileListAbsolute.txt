@@ -1,0 +1,5 @@
+D:\VisualStudio\TestFunction\ClassLibraryRemotePC\ClassLibraryRemotePC\bin\Release\ClassLibraryRemotePC.dll
+D:\VisualStudio\TestFunction\ClassLibraryRemotePC\ClassLibraryRemotePC\bin\Release\ClassLibraryRemotePC.pdb
+D:\VisualStudio\TestFunction\ClassLibraryRemotePC\ClassLibraryRemotePC\obj\Release\ClassLibraryRemotePC.csprojAssemblyReference.cache
+D:\VisualStudio\TestFunction\ClassLibraryRemotePC\ClassLibraryRemotePC\obj\Release\ClassLibraryRemotePC.dll
+D:\VisualStudio\TestFunction\ClassLibraryRemotePC\ClassLibraryRemotePC\obj\Release\ClassLibraryRemotePC.pdb

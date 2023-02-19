@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 27.125" name="Uchet_Internet_Uslug_db">
+  <DataContextMoniker Name="/Uchet_Internet_Uslug_dbDataContext" />
+  <nestedChildShapes>
+    <classShape Id="b76aa8be-bbca-4635-bb3f-2fc8803e87f7" absoluteBounds="1.5, 16.5, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/Uchet_Internet_Uslug_dbDataContext/Adresa" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0b921d58-a252-4916-838e-621da8f4bdb5" absoluteBounds="1.5150000000000001, 16.96, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1e8ec9b1-0907-47eb-aa35-687c5450854e" absoluteBounds="0.75, 7.625, 2, 2.1554996744791657">
+      <DataClassMoniker Name="/Uchet_Internet_Uslug_dbDataContext/Uslugi" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a7b14cd4-ff1e-4ed5-b575-3a6754ca7487" absoluteBounds="0.765, 8.085, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c713db63-32b7-49bb-904a-461bfeb9c4d5" absoluteBounds="0.75, 1, 2, 1.5785953776041668">
+      <DataClassMoniker Name="/Uchet_Internet_Uslug_dbDataContext/Doljnosti" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d09fef01-967f-40b7-b40e-dfaf8f0a5135" absoluteBounds="0.765, 1.46, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2cb1e7dc-a569-46f8-b653-88086595a889" absoluteBounds="2.25, 25.625, 2, 1.1939925130208309">
+      <DataClassMoniker Name="/Uchet_Internet_Uslug_dbDataContext/Goroda" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4daa25a2-651e-4c2d-aee2-eab4a725471d" absoluteBounds="2.265, 26.085, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="548d560e-d8fb-4780-a7d2-2dd66422586d" absoluteBounds="6.25, 4.25, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/Uchet_Internet_Uslug_dbDataContext/Istoriya_Oplati" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a56ff8a6-5564-45e5-bc4a-1ce3d82f2e41" absoluteBounds="6.265, 4.71, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2c6d4fee-cba2-4221-bb62-0f0df1510a90" absoluteBounds="3.5, 0.75, 2, 1.9631982421875">
+      <DataClassMoniker Name="/Uchet_Internet_Uslug_dbDataContext/Klient_Uslugi" />
+      <nestedChildShapes>
+        <elementListCompartment Id="50519124-b63c-435f-919f-952f54b543bd" absoluteBounds="3.515, 1.21, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4ed36f50-3c18-4448-825d-56d2b7b7a9a5" absoluteBounds="0.75, 10.875, 2, 2.9247054036458309">
+      <DataClassMoniker Name="/Uchet_Internet_Uslug_dbDataContext/Klienti" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8b52edd1-f6a8-4c4e-b41f-19d77a7d47d9" absoluteBounds="0.765, 11.335, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2480ee40-f734-4046-8da2-9452628d0510" absoluteBounds="2, 22.625, 2, 1.3862939453125023">
+      <DataClassMoniker Name="/Uchet_Internet_Uslug_dbDataContext/Rayoni" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f6c359c4-5079-460c-bfa9-d4ae9312f081" absoluteBounds="2.015, 23.085, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9c3b677c-2592-4190-99fa-5335c7197bd4" absoluteBounds="1.5, 14.5, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/Uchet_Internet_Uslug_dbDataContext/Scheta" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8a6130f7-139b-4c83-970a-c5cb8b7527b7" absoluteBounds="1.5150000000000001, 14.96, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4f413887-95a0-4e29-9d48-957cb1421e1f" absoluteBounds="0.75, 3.5, 2, 2.5401025390625005">
+      <DataClassMoniker Name="/Uchet_Internet_Uslug_dbDataContext/Sotrudniki" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ec1cd1ec-fbb2-44e3-9173-da06e44cdbf5" absoluteBounds="0.765, 3.96, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3c689fbd-025f-4295-9d18-be1c617cc1d5" absoluteBounds="3.5, 3.875, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/Uchet_Internet_Uslug_dbDataContext/Sotrudniki_Doljnosti" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fa3f5b65-e9d5-465d-9233-bea0f3730c49" absoluteBounds="3.515, 4.335, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6635b994-a4f6-436a-997e-21f72c771d6d" absoluteBounds="1.75, 19.625, 2, 1.3862939453125023">
+      <DataClassMoniker Name="/Uchet_Internet_Uslug_dbDataContext/Ulizi" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c57ca373-ce48-467e-8240-4f3e377c7d75" absoluteBounds="1.7650000000000001, 20.085, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.5 : 1.73159912109375); (7.25 : 1.73159912109375); (7.25 : 4.25)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/Uchet_Internet_Uslug_dbDataContext/Klient_Uslugi/Klient_Uslugi_Istoriya_Oplati" />
+      <nodes>
+        <classShapeMoniker Id="2c6d4fee-cba2-4221-bb62-0f0df1510a90" />
+        <classShapeMoniker Id="548d560e-d8fb-4780-a7d2-2dd66422586d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 7.62653746153846); (3.125 : 7.25153746153846); (3.125 : 1.73159912109375); (3.5 : 1.73159912109375)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/Uchet_Internet_Uslug_dbDataContext/Uslugi/Uslugi_Klient_Uslugi" />
+      <nodes>
+        <classShapeMoniker Id="1e8ec9b1-0907-47eb-aa35-687c5450854e" />
+        <classShapeMoniker Id="2c6d4fee-cba2-4221-bb62-0f0df1510a90" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 10.9380759230769); (3.3125 : 10.3755759230769); (3.3125 : 2.25365068164062); (3.5 : 2.25365068164062)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/Uchet_Internet_Uslug_dbDataContext/Klienti/Klienti_Klient_Uslugi" />
+      <nodes>
+        <classShapeMoniker Id="4ed36f50-3c18-4448-825d-56d2b7b7a9a5" />
+        <classShapeMoniker Id="2c6d4fee-cba2-4221-bb62-0f0df1510a90" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.5 : 17.2892976888021); (1.1249995 : 17.2892976888021); (1.1249995 : 13.7997054036458)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/Uchet_Internet_Uslug_dbDataContext/Adresa/Adresa_Klienti" />
+      <nodes>
+        <classShapeMoniker Id="b76aa8be-bbca-4635-bb3f-2fc8803e87f7" />
+        <classShapeMoniker Id="4ed36f50-3c18-4448-825d-56d2b7b7a9a5" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(3.125 : 25.625); (3.125 : 24.0112939453125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/Uchet_Internet_Uslug_dbDataContext/Goroda/Goroda_Rayoni" />
+      <nodes>
+        <classShapeMoniker Id="2cb1e7dc-a569-46f8-b653-88086595a889" />
+        <classShapeMoniker Id="2480ee40-f734-4046-8da2-9452628d0510" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.125 : 14.5); (2.125 : 13.7997054036458)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/Uchet_Internet_Uslug_dbDataContext/Scheta/Scheta_Klienti" />
+      <nodes>
+        <classShapeMoniker Id="9c3b677c-2592-4190-99fa-5335c7197bd4" />
+        <classShapeMoniker Id="4ed36f50-3c18-4448-825d-56d2b7b7a9a5" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 3.56153746153846); (3.06607443490112 : 3.24546302663734 : JumpStart); (3.18392556509888 : 3.12761189643958 : JumpEnd); (3.1875 : 3.12403746153846); (3.1875 : 1.20954756054688); (3.5 : 1.20954756054688)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/Uchet_Internet_Uslug_dbDataContext/Sotrudniki/Sotrudniki_Klient_Uslugi" />
+      <nodes>
+        <classShapeMoniker Id="4f413887-95a0-4e29-9d48-957cb1421e1f" />
+        <classShapeMoniker Id="2c6d4fee-cba2-4221-bb62-0f0df1510a90" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 2.5482367741887); (3.06607443490112 : 2.86431120908982 : JumpStart); (3.24642556509888 : 3.04466233928758 : JumpEnd); (3.25357443490112 : 3.05181120908982 : JumpStart); (3.37142556509888 : 3.16966233928758 : JumpEnd); (3.40625 : 3.2044867741887); (3.40625 : 4.76044840494792); (3.5 : 4.76044840494792)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/Uchet_Internet_Uslug_dbDataContext/Doljnosti/Doljnosti_Sotrudniki_Doljnosti" />
+      <nodes>
+        <classShapeMoniker Id="c713db63-32b7-49bb-904a-461bfeb9c4d5" />
+        <classShapeMoniker Id="3c689fbd-025f-4295-9d18-be1c617cc1d5" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 4.25522420247396); (3.04166666666667 : 4.25522420247396 : JumpStart); (3.20833333333333 : 4.25522420247396 : JumpEnd); (3.22916666666667 : 4.25522420247396 : JumpStart); (3.48958333333333 : 4.25522420247396 : JumpEnd); (3.5 : 4.25522420247396)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/Uchet_Internet_Uslug_dbDataContext/Sotrudniki/Sotrudniki_Sotrudniki_Doljnosti" />
+      <nodes>
+        <classShapeMoniker Id="4f413887-95a0-4e29-9d48-957cb1421e1f" />
+        <classShapeMoniker Id="3c689fbd-025f-4295-9d18-be1c617cc1d5" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.625 : 19.625); (2.625 : 18.0785953776042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/Uchet_Internet_Uslug_dbDataContext/Ulizi/Ulizi_Adresa" />
+      <nodes>
+        <classShapeMoniker Id="6635b994-a4f6-436a-997e-21f72c771d6d" />
+        <classShapeMoniker Id="b76aa8be-bbca-4635-bb3f-2fc8803e87f7" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.875 : 22.625); (2.875 : 21.0112939453125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/Uchet_Internet_Uslug_dbDataContext/Rayoni/Rayoni_Ulizi" />
+      <nodes>
+        <classShapeMoniker Id="2480ee40-f734-4046-8da2-9452628d0510" />
+        <classShapeMoniker Id="6635b994-a4f6-436a-997e-21f72c771d6d" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

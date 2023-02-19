@@ -1,0 +1,56 @@
+D:\VisualStudio\TestFunction\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\VisualStudio\TestFunction\Server\Server\obj\Debug\Server.Properties.Resources.resources
+D:\VisualStudio\TestFunction\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\VisualStudio\TestFunction\Server\Server\bin\Debug\Server.exe.config
+D:\VisualStudio\TestFunction\Server\Server\bin\Debug\Server.exe
+D:\VisualStudio\TestFunction\Server\Server\bin\Debug\Server.pdb
+D:\VisualStudio\TestFunction\Server\Server\obj\Debug\Server.exe
+D:\VisualStudio\TestFunction\Server\Server\obj\Debug\Server.pdb
+D:\VisualStudio\TestFunction\Server\Server\bin\Debug\ClassLibraryRemotePC.dll
+D:\VisualStudio\TestFunction\Server\Server\bin\Debug\ClassLibraryRemotePC.pdb
+D:\VisualStudio\TestFunction\Server\Server\obj\Debug\Server.csproj.CopyComplete
+D:\VisualStudio\TestFunction\Server\Server\bin\Debug\ClassLibraryRemotePC.xml
+D:\VisualStudio\TestFunction\Server\Server\obj\Debug\Server.MainForm.resources
+D:\Общее\Времянка\Server\Server\bin\Debug\Server.exe.config
+D:\Общее\Времянка\Server\Server\bin\Debug\Server.exe
+D:\Общее\Времянка\Server\Server\bin\Debug\Server.pdb
+D:\Общее\Времянка\Server\Server\bin\Debug\ClassLibraryRemotePC.dll
+D:\Общее\Времянка\Server\Server\bin\Debug\ClassLibraryRemotePC.pdb
+D:\Общее\Времянка\Server\Server\bin\Debug\ClassLibraryRemotePC.xml
+D:\Общее\Времянка\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\Общее\Времянка\Server\Server\obj\Debug\Server.MainForm.resources
+D:\Общее\Времянка\Server\Server\obj\Debug\Server.Properties.Resources.resources
+D:\Общее\Времянка\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\Общее\Времянка\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Общее\Времянка\Server\Server\obj\Debug\Server.csproj.CopyComplete
+D:\Общее\Времянка\Server\Server\obj\Debug\Server.exe
+D:\Общее\Времянка\Server\Server\obj\Debug\Server.pdb
+D:\VisualStudio\TestFunction\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Programming\VisualStudio\TestFunction\Server\Server\bin\Debug\Server.exe.config
+D:\Programming\VisualStudio\TestFunction\Server\Server\bin\Debug\Server.exe
+D:\Programming\VisualStudio\TestFunction\Server\Server\bin\Debug\Server.pdb
+D:\Programming\VisualStudio\TestFunction\Server\Server\bin\Debug\ClassLibraryRemotePC.dll
+D:\Programming\VisualStudio\TestFunction\Server\Server\bin\Debug\ClassLibraryRemotePC.pdb
+D:\Programming\VisualStudio\TestFunction\Server\Server\bin\Debug\ClassLibraryRemotePC.xml
+D:\Programming\VisualStudio\TestFunction\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\Programming\VisualStudio\TestFunction\Server\Server\obj\Debug\Server.MainForm.resources
+D:\Programming\VisualStudio\TestFunction\Server\Server\obj\Debug\Server.Properties.Resources.resources
+D:\Programming\VisualStudio\TestFunction\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\Programming\VisualStudio\TestFunction\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Programming\VisualStudio\TestFunction\Server\Server\obj\Debug\Server.csproj.CopyComplete
+D:\Programming\VisualStudio\TestFunction\Server\Server\obj\Debug\Server.exe
+D:\Programming\VisualStudio\TestFunction\Server\Server\obj\Debug\Server.pdb
+D:\Programming\VisualStudio\Remote access\Server\Server\bin\Debug\Server.exe.config
+D:\Programming\VisualStudio\Remote access\Server\Server\bin\Debug\Server.exe
+D:\Programming\VisualStudio\Remote access\Server\Server\bin\Debug\Server.pdb
+D:\Programming\VisualStudio\Remote access\Server\Server\bin\Debug\ClassLibraryRemotePC.dll
+D:\Programming\VisualStudio\Remote access\Server\Server\bin\Debug\ClassLibraryRemotePC.pdb
+D:\Programming\VisualStudio\Remote access\Server\Server\bin\Debug\ClassLibraryRemotePC.xml
+D:\Programming\VisualStudio\Remote access\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\Programming\VisualStudio\Remote access\Server\Server\obj\Debug\Server.MainForm.resources
+D:\Programming\VisualStudio\Remote access\Server\Server\obj\Debug\Server.Properties.Resources.resources
+D:\Programming\VisualStudio\Remote access\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\Programming\VisualStudio\Remote access\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Programming\VisualStudio\Remote access\Server\Server\obj\Debug\Server.csproj.CopyComplete
+D:\Programming\VisualStudio\Remote access\Server\Server\obj\Debug\Server.exe
+D:\Programming\VisualStudio\Remote access\Server\Server\obj\Debug\Server.pdb
